@@ -3,5 +3,5 @@ Desafio para o processo seletivo da Lighthouse
 
 
 ## How to run:
-- pip install requirements.txt
+- Use pip install requirements.txt
 - Execute desafio.py ou utilize o desafio_data_science.ipynb em um jupyter notebook

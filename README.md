@@ -1,6 +1,7 @@
 # Data Science Challenge
 
 A challenge initially completed for the Lighthouse selection process and updated in 2025 to compare my personal development in data science.
+The objective of this project is to predict whether an individual earns more than $50K a year based on census data. This is a binary classification task.
 
 ## How to Run:
 
